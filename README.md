@@ -8,7 +8,6 @@
 
 📚 **Ottorise:**
 > Sou fundador da **OttoRise**, uma empresa focada em **SaaS**, **automação de processos** e **soluções digitais** para empresas
-> Foco na **prática real de mercado**, ajudando qualquer pessoa, sem necessidade de conhecimento prévio em TI, a otimizar processos empresariais.
 
 🖥️ **Tecnologias e Ferramentas:**
 - **Automação:** n8n, Power Automate, Evolution API, AI Builder
